@@ -100,5 +100,3 @@ The ensemble model outperformed all individual models in MSE and RMSE, confirmin
 - **Environment:** Jupyter Notebook  
 
 ---
-
-## 📂 Repository Structure
